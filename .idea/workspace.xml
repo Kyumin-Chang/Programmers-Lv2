@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89d2ec0d-09cb-4a94-bd50-94b1f024a05b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TiredDegree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700994404349</updated>
-      <workItem from="1700994405407" duration="23911000" />
+      <workItem from="1700994405407" duration="26749000" />
     </task>
     <servers />
   </component>
