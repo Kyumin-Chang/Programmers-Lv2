@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89d2ec0d-09cb-4a94-bd50-94b1f024a05b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParkFeeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParkFeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ParkFeeTest.parkFeeTest">
     <configuration name="FunctionDevelopmentTest.mainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,8 +94,30 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="ParkFeeTest.OutCarSortedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmers-Lv2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkFeeTest" />
+      <option name="METHOD_NAME" value="OutCarSortedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkFeeTest.parkFeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmers-Lv2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkFeeTest" />
+      <option name="METHOD_NAME" value="parkFeeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ParkFeeTest.parkFeeTest" />
+        <item itemvalue="JUnit.ParkFeeTest.OutCarSortedTest" />
         <item itemvalue="Gradle.FunctionDevelopmentTest.mainTest" />
       </list>
     </recent_temporary>
@@ -107,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700994404349</updated>
-      <workItem from="1700994405407" duration="34643000" />
+      <workItem from="1700994405407" duration="46537000" />
     </task>
     <servers />
   </component>
