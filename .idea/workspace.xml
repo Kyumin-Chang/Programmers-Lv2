@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89d2ec0d-09cb-4a94-bd50-94b1f024a05b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ParkFeeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ParkFeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StockPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StockPriceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ParkFeeTest.parkFeeTest">
+  <component name="RunManager" selected="JUnit.StockPriceTest.mainTest">
     <configuration name="FunctionDevelopmentTest.mainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -114,8 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StockPriceTest.mainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmers-Lv2.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockPriceTest" />
+      <option name="METHOD_NAME" value="mainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StockPriceTest.mainTest" />
         <item itemvalue="JUnit.ParkFeeTest.parkFeeTest" />
         <item itemvalue="JUnit.ParkFeeTest.OutCarSortedTest" />
         <item itemvalue="Gradle.FunctionDevelopmentTest.mainTest" />
@@ -130,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700994404349</updated>
-      <workItem from="1700994405407" duration="46537000" />
+      <workItem from="1700994405407" duration="49605000" />
     </task>
     <servers />
   </component>
